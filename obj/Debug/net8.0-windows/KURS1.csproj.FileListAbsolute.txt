@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\KURS1\KURS1\bin\Debug\net8.0-windows\KURS1.exe
+C:\Users\user\source\repos\KURS1\KURS1\bin\Debug\net8.0-windows\KURS1.deps.json
+C:\Users\user\source\repos\KURS1\KURS1\bin\Debug\net8.0-windows\KURS1.runtimeconfig.json
+C:\Users\user\source\repos\KURS1\KURS1\bin\Debug\net8.0-windows\KURS1.dll
+C:\Users\user\source\repos\KURS1\KURS1\bin\Debug\net8.0-windows\KURS1.pdb
+C:\Users\user\source\repos\KURS1\KURS1\obj\Debug\net8.0-windows\KURS1.ChildForm.resources
+C:\Users\user\source\repos\KURS1\KURS1\obj\Debug\net8.0-windows\KURS1.Form1.resources
+C:\Users\user\source\repos\KURS1\KURS1\obj\Debug\net8.0-windows\KURS1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\KURS1\KURS1\obj\Debug\net8.0-windows\KURS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\KURS1\KURS1\obj\Debug\net8.0-windows\KURS1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\KURS1\KURS1\obj\Debug\net8.0-windows\KURS1.AssemblyInfo.cs
+C:\Users\user\source\repos\KURS1\KURS1\obj\Debug\net8.0-windows\KURS1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KURS1\KURS1\obj\Debug\net8.0-windows\KURS1.dll
+C:\Users\user\source\repos\KURS1\KURS1\obj\Debug\net8.0-windows\refint\KURS1.dll
+C:\Users\user\source\repos\KURS1\KURS1\obj\Debug\net8.0-windows\KURS1.pdb
+C:\Users\user\source\repos\KURS1\KURS1\obj\Debug\net8.0-windows\KURS1.genruntimeconfig.cache
+C:\Users\user\source\repos\KURS1\KURS1\obj\Debug\net8.0-windows\ref\KURS1.dll
